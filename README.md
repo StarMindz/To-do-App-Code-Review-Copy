@@ -1,6 +1,8 @@
 # To-Do-list-App
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-In this project, I built a simple HTML list of To Do tasks. This simple web page was built using webpack and served by a webpack dev server
+# This Repo is a copy of the To-Do-App repo created with the intent of receiving a Code review from a Coding partner 
+
+#In this project, I built a simple HTML list of To Do tasks. This simple web page was built using webpack and served by a webpack dev server
 
 > Description the project.
 This To-do-list webapp allows users to add, remove, mark as complete and edit task using JavaScript objects and arrays, I hope that you enjoy using it as I did building it.
